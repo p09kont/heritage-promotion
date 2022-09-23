@@ -1,0 +1,7 @@
+---
+layout: poi
+wikidatum: Q178488
+title:  Κεφαλονία
+---
+
+Sample text
