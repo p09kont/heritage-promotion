@@ -1,1 +1,7 @@
+---
+layout: poi
+wikidatum: Q1524
+title:  Αθήνα
+---
 
+Sample text
