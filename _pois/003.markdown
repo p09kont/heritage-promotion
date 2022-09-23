@@ -1,0 +1,7 @@
+---
+layout: poi
+wikidatum: Q34374
+title:  Κρήτη
+---
+
+Sample text
